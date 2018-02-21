@@ -1,6 +1,5 @@
 package chapter7;
 import java.util.Scanner;
-import java.io.PrintWriter;
 import java.io.File;
 
 public class ClassExercise7 {
